@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
-  "downloadUrl": "https://github.com/devfree-ui/gestao-financeira-releases/releases/download/v1.0.2/GestaoFinanceiraSetup.exe",
-  "releaseNotes": "Atualização.\nNesta versão foram corrigidos alguns bugs e tradução e a foi implementada a opção de recuperação da password.",
+  "version": "1.0.3",
+  "downloadUrl": "https://github.com/devfree-ui/gestao-financeira-releases/releases/download/v1.0.3/GestaoFinanceiraSetup.exe",
+  "releaseNotes": "Atualização.\nNesta versão foram corrigidos alguns bugs, tradução e a foi melhorada a recuperação da password e login e o design.",
   "mandatory": false
 }
