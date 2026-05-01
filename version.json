@@ -1,6 +1,6 @@
 {
-  "version": "1.0.6",
-  "downloadUrl": "https://github.com/devfree-ui/gestao-financeira-releases/releases/download/v1.0.6/GestaoFinanceiraSetup.exe",
+  "version": "1.0.7",
+  "downloadUrl": "https://github.com/devfree-ui/gestao-financeira-releases/releases/download/v1.0.7/GestaoFinanceiraSetup.exe",
   "releaseNotes": "Atualização.\nNesta versão foram corrigidos alguns bugs e melhorado o design de inicio, login e registo.",
   "mandatory": false
 }
