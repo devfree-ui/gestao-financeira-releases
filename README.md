@@ -1,4 +1,5 @@
 # Gestão Financeira
+Controle total das tuas finanças.
 
 <p align="center">
   <img src="banner.png" alt="Capa Gestão Financeira" width="100%">
