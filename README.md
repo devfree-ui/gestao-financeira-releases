@@ -1,7 +1,7 @@
 # Gestão Financeira
 
 <p align="center">
-  <img src="Assets/cover-kofi.png" alt="Capa Gestão Financeira" width="100%">
+  <img src="banner.png" alt="Capa Gestão Financeira" width="100%">
 </p>
 
 Aplicação desktop para gestão de receitas, despesas, dívidas, poupança, cartões e planeamento financeiro.
