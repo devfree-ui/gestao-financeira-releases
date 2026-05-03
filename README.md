@@ -4,7 +4,7 @@
   <img src="banner.png" alt="Capa Gestão Financeira" width="100%">
 </p>
 
-Aplicação desktop para gestão de receitas, despesas, dívidas, poupança, cartões e planeamento financeiro.
+Gestão Financeira é uma aplicação desktop para organização financeira pessoal, permitindo acompanhar receitas, despesas, dívidas, poupanças, cartões, vendas pessoais e planeamentos mensais num único lugar, com relatórios, resumos e indicadores visuais para apoiar melhores decisões financeiras.
 
 ## Apoiar o desenvolvimento
 
