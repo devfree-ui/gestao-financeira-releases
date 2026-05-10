@@ -24,6 +24,7 @@ A versão oficial deve ser descarregada apenas através deste link.
 </p>
 
 ### Verificação do ficheiro
-
+<p>
 SHA256:
+</p>
 <sub><strong>33922307C3AA399282DA5BD3886D0670DFEA22B71DBCEE2E12E6196EF2C4C3DA</strong></sub>
