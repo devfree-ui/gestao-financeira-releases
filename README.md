@@ -22,3 +22,5 @@ Ao instalar, o Windows pode mostrar um aviso de segurança.
 <p>
 A versão oficial deve ser descarregada apenas através deste link.
 </p>
+
+<b>33922307C3AA399282DA5BD3886D0670DFEA22B71DBCEE2E12E6196EF2C4C3DA</b>
