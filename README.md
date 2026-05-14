@@ -23,6 +23,14 @@ Ao instalar, o Windows pode mostrar um aviso de segurança.
 A versão oficial deve ser descarregada apenas através deste link.
 </p>
 
+
+<p align="center">
+  <img src="pub1.png" alt="Publicidade Gestão Financeira" width="100%">
+</p>
+
+Em breve será possível também efetuar simulações e cálculos rápidos sem saires da tua app de gestão pessoal!
+
+
 ### Verificação do ficheiro
 <p>
 SHA256:
