@@ -18,7 +18,7 @@ Se gostas da aplicação e queres ajudar no desenvolvimento, podes apoiar aqui:
   <img src="pub1.png" alt="Publicidade Gestão Financeira" width="100%">
 </p>
 
-Em breve será possível também efetuar simulações e cálculos rápidos sem saires da tua app de gestão pessoal!
+## Em breve será possível também efetuar simulações e cálculos rápidos sem saires da tua app de gestão pessoal!
 
 
 <p>
