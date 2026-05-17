@@ -1,6 +1,6 @@
 {
-  "version": "1.1.1",
-  "downloadUrl": "https://github.com/devfree-ui/gestao-financeira-releases/releases/download/v1.1.1/GestaoFinanceiraSetup.exe",
-  "releaseNotes": "Atualização.\nNesta versão foram corrigidos alguns bugs, melhorado o design e acrescentamos algumas novidades.",
+  "version": "1.1.2",
+  "downloadUrl": "https://github.com/devfree-ui/gestao-financeira-releases/releases/download/v1.1.2/GestaoFinanceiraSetup.exe",
+  "releaseNotes": "Atualização.\nNesta versão foram corrigidos alguns bugs, melhorado o design e acrescentamos algumas novidades.\nAgora já podes efetuar simulações, cálculos e ainda anexar comprovativos e faturas aos teus movimentos.",
   "mandatory": false
 }
