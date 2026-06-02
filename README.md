@@ -18,9 +18,12 @@ Se gostas da aplicação e queres ajudar no desenvolvimento, podes apoiar aqui:
   <img src="pub2.png" alt="Publicidade Gestão Financeira" width="100%">
 </p>
 
-## Em breve será possível também efetuar simulações e cálculos rápidos sem saires da tua app de gestão pessoal!
+## Já é possível efetuar simulações e cálculos rápidos sem saires da tua app de gestão pessoal!
 
-
+<p>
+Agora podes também anexar os teus comprovativos de recebimentos, despesas, pagamento de dividas e tudo mais para não perderes o controlo da situação.
+</p>
+<br/>
 <p>
 Esta aplicação ainda não possui assinatura digital comercial.
 </p>
