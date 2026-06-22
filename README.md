@@ -15,17 +15,23 @@ Se gostas da aplicação e queres ajudar no desenvolvimento, podes apoiar aqui:
 
 
 <p align="center">
-  <img src="pub2.png" alt="Publicidade Gestão Financeira" width="100%">
+  <img src="banner1.png" alt="Publicidade Gestão Financeira" width="100%">
 </p>
 
-## Já é possível efetuar simulações e cálculos rápidos sem saires da tua app de gestão pessoal!
+## Grandes novidades...
 
 <p>
-Agora podes também anexar os teus comprovativos de recebimentos, despesas, pagamento de dividas e tudo mais para não perderes o controlo da situação.
+Já podes efetuar simulações de cálculos, podes controlar as tuas despesas e e documentos de comprovativo ou fatura no centro de responsabilidades.
 </p>
 <br/>
 <p>
-Esta aplicação ainda não possui assinatura digital comercial.
+Podes também controlar as tuas despesas na área da saúde, sejam consultas, exames ou medicação, registas tudo e controla cada gasto.
+</p>
+<p>
+Podes controlar todas as despesas em relação à casa ou às tuas viaturas.
+</p>
+<p>
+Faz já download da aplicação para Windows e começa a ter um controlo total das tuas contas.
 </p>
 <p>
 Ao instalar, o Windows pode mostrar um aviso de segurança.
